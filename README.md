@@ -3,7 +3,7 @@ This project is similar to Zomato website.
 
 # Technology
 
-PHP
+PHP,
 Mysql
 
 It is a simple web based project. php is used as backed project. 
